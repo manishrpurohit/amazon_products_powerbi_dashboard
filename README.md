@@ -4,8 +4,6 @@ An interactive **Power BI** dashboard that analyzes Amazon.com product listings 
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
-> 📸 *Add a screenshot of your dashboard at `images/dashboard-preview.png` so it shows up here.*
-
 ---
 
 ## 📌 Table of Contents

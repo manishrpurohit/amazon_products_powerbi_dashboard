@@ -166,7 +166,7 @@ The report has one main page, **Amazon Product Analytics Dashboard**.
 
 ## 💡 Key Insights
 
-- **Toys & Games dominates the catalog**: about 68% of all products (6,549 of 9,617) and roughly 59% of the total listing value (about $223K of $378K).
+- **Toys & Games dominates the catalog**: about 68% of all products (6,549 of 9,617) and roughly 60% of the total listing value (about $223K of $378K).
 - **Amazon is the main seller**: around 98% of listings (9,417) are sold by Amazon, versus only 200 (about 2%) by third-party sellers.
 - **Most products are budget-friendly**: about 70% of products fall in the Budget band (≤ $25), with only about 2% (193 products) in the Luxury band.
 - **Large price spread**: prices range from $0.01 to $5,332, while the average is only $39.75, so a small number of high-priced items pull the average up.

@@ -228,11 +228,11 @@ The report has one main page, **Amazon Product Analytics Dashboard**.
 
 ## 👤 Author
 
-**[Your Name]**
+**[Manish Purohit]**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@manishrpurohit](https://github.com/manishrpurohit)
+- LinkedIn: [Manish Purohit](https://www.linkedin.com/in/manishhpurohit)
+- Email: manish22rp@gmail.com
 
 ---
 
